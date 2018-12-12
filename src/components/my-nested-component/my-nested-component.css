@@ -1,0 +1,28 @@
+
+.k12-lesson-grade-cell {
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+    font-size: 14px;
+    text-align: center;
+    display: inline-block;
+    height: 63px;
+    width: 55px; }
+    .k12-lesson-grade-cell .k12-points-ob {
+      padding: 9px 0;
+      font-weight: 900; }
+    .k12-lesson-grade-cell .k12-grade-score {
+      padding: 3px 0;
+      font-weight: 700;
+      font-size: 12px; }
+
+      .k12-lesson-grade-cell .k12-good-grade-color-points {
+        background: rgba(105, 190, 39, 0.2); }
+      .k12-lesson-grade-cell .k12-good-grade-color-grade {
+        background: rgba(105, 190, 39, 0.4); }
+
+
+        .k12-grid-lines-middle {
+            border-left: 1px solid #ccc; }
+        
+
+.k12-cell-data-container-middle-cell {
+    width: 57px; }
